@@ -2,15 +2,16 @@
 layout: homepage
 ---
 
-## About Me
+## 蒋云彪
 
-I am a Ph.D. student at ...
+大连民族大学讲师，青年特岗（校聘教授），硕士生导师
 
-## Research Interests
+## 研究领域
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **多智能体分布式协同控制:** 非线性多智能体系统的一致性、 编队和包容控制。
+- **海洋无人航行器运动控制:** 水面无人船和水下无人航行器的路径跟随控制、轨迹跟踪控制、集群编队控制。
+- **智能制理论与方法:** 神经网络控制、模糊控制、滑模变结构控制，等等。
+  
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
