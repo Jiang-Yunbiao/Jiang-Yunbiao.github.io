@@ -4,14 +4,13 @@ layout: homepage
 
 ## 蒋云彪
 
-大连民族大学讲师，青年特岗（校聘教授），硕士生导师，2024年6月毕业于南开大学的控制科学与工程专业，2024年7月入职任大连民族大学的机电工程学院自动化系。截至目前，以第一作者发表科研论文20余篇于人工智能领域权威期刊，如IEEE汇刊TFS、TNNLS、TCYB、TCNS、TSIPN等，主持和参与科研项目多项；中国自动化学会会员，入选大连市高层次人才-青年才俊、大连市青年科技之星。
+大连民族大学讲师，青年特岗（校聘教授），硕士生导师，2024年6月毕业于南开大学的控制科学与工程专业，2024年7月入职任大连民族大学的机电工程学院自动化系。截至目前，以第一作者在人工智能和海洋工程等领域的权威期刊发表科研论文20余篇，如IEEE汇刊IEEE Transactions on Fuzzy Systems、 IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、 IEEE Transactions on Control of Network Systems、IEEE Transactions on Signal and Information Processing over Networks、Ocean Engineering，等等；主持省市级科研项目多项，参与国家自然科学基金项目多项；中国自动化学会会员，入选大连市高层次人才-青年才俊、大连市青年科技之星。
 
 ## 工作经历
 
-- 2024.07 — 至今 &nbsp;  大 连 民 族 大 学，  讲师（校聘教授）； &nbsp;
-科研团队：韩继斌教授（万人计划-领军人才）团队
-- 2025.01 — 至今  &nbsp;  大连理工大学， 博士后；&nbsp;  合作导师：牛奔教授（国家高层次青年人才，智能科学与技术研究所长）
-- 2019.08 — 2020.07       大连船舶重工集团有限公司 设计研究院       自动化工程师
+- 2024.07 — 至今 &nbsp;  讲师（校聘教授），  大连民族大学； &nbsp; 科研团队：韩继斌教授（万人计划-领军人才）团队；
+- 2025.01 — 至今  &nbsp;  博士后， 大连理工大学；&nbsp; 合作导师：牛奔教授（国家高层次青年人才，大连理工大学智能科学与技术研究所长）；
+- 2019.08 — 2020.07   &nbsp;     自动化工程师， 大连船舶重工集团有限公司-设计研究院；
 
 
 ## 研究领域
@@ -25,9 +24,10 @@ layout: homepage
 - 中国自动化学会会员，担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、 TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control。
   
 ## 招生领域：控制工程
-- 联系方式：jiangyb@dlnu.edu.cn；
+- 科研团队：智能控制与仿真设计、车辆智能化与控制；团队教师10余名，包括国家万人计划-领军人才1位、国家民委中青年英才1位、以及多位省市级人才称号获得者；
 - 实验条件：课题组配备永磁同步电机、智能无人车和无人船等实验设备；
-- 欢迎有意从事学术研究的考研/保研学生加入课题组。本课题组与国内多所双一流大学保持密切合作，乐于为有意申请读博的同学提供力所能及的帮助。 
+- 欢迎有意从事学术研究的考研/保研学生加入课题组。本课题组与国内多所双一流大学保持密切合作，乐于为有意申请读博的同学提供力所能及的帮助；
+- 联系方式：jiangyb@dlnu.edu.cn
   
 ## 代表性论文：
 
