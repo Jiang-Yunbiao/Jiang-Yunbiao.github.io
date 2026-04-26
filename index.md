@@ -10,7 +10,11 @@ layout: homepage
 
 - **多智能体分布式协同控制:** 非线性多智能体系统的一致性、 编队和包容控制。
 - **海洋无人航行器运动控制:** 水面无人船和水下无人航行器的路径跟随控制、轨迹跟踪控制、集群编队控制。
-- **智能制理论与方法:** 神经网络控制、模糊控制、滑模变结构控制，等等。
+- **智能制理论与方法:** 神经网络控制、模糊控制、故障容错控制、网路容侵控制。
+
+## 社会兼职：
+
+- 中国自动化学会会员，担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、 TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control。
   
 ## News
 
