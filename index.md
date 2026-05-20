@@ -4,7 +4,7 @@ layout: homepage
 
 ## 蒋云彪
 
-大连民族大学讲师，青年特岗（校聘教授），硕士生导师，2024年6月毕业于南开大学的控制科学与工程专业，2024年7月入职任大连民族大学的机电工程学院自动化系。截至目前，以第一作者在人工智能和海洋工程等领域的权威期刊发表科研论文20余篇，如IEEE汇刊IEEE Transactions on Fuzzy Systems、 IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、 IEEE Transactions on Control of Network Systems、IEEE Transactions on Signal and Information Processing over Networks、Ocean Engineering，等等；主持省市级科研项目多项，参与国家自然科学基金项目多项；中国自动化学会会员，入选大连市高层次人才-青年才俊、大连市青年科技之星。
+大连民族大学讲师，青年特岗（校聘教授），硕士生导师，2024年6月毕业于南开大学控制科学与工程专业，2024年7月入职任大连民族大学机电工程学院自动化系。截至目前，以第一作者在人工智能和海洋工程等领域的权威期刊发表科研论文20余篇，如IEEE汇刊IEEE Transactions on Fuzzy Systems、 IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、 IEEE Transactions on Control of Network Systems、IEEE Transactions on Signal and Information Processing over Networks、Ocean Engineering，等等；主持省市级科研项目多项，参与国家自然科学基金项目多项；中国自动化学会会员，入选大连市高层次人才-青年才俊、大连市青年科技之星。
 
 ## 工作经历
 
@@ -17,7 +17,7 @@ layout: homepage
 
 - **多智能体分布式协同控制:** 非线性多智能体系统的一致性、 编队和包容控制；
 - **海洋无人航行器运动控制:** 水面无人船和水下无人航行器的路径跟随控制、轨迹跟踪控制、集群编队控制；
-- **智能制理论与方法:** 神经网络控制、模糊控制、故障容错控制、网络容侵控制。
+- **智能制理论与方法:** 神经网络控制、故障容错控制、网络容侵控制。
 
 ## 社会兼职：
 
@@ -34,7 +34,7 @@ layout: homepage
 - [1] 蒋云彪, 张涛, 陈飞, 等. Output-constrained secured tracking control for distributed cyber-physical systems against FDI attacks[J]. IEEE Transactions on Cybernetics, 2025, 55(11): 5070 - 5080. (SCI, 中科院 1 区，Top 期刊)
 - [2] 蒋云彪,王付永,刘忠信, 等. Composite learning adaptive tracking control for full-state constrained multiagent systems without using the feasibility condition[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 2460-2472. (SCI, 中科院 1 区，Top 期刊)
 - [3] 蒋云彪, 刘忠信, 陈增强. Fuzzy adaptive finite-time tracking control for a class of nonlinear systems: An event-triggered quantized control scheme[J]. IEEE Transactions on Fuzzy Systems, 2023, 31(11): 4137-4144. (SCI, 中科院 1 区，Top 期刊)
-- [4]	蒋云彪,宗广灯,刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions. IEEE Transactions on Signal and Information Processing over Networks, 2026.
+- [4]	蒋云彪,宗广灯,刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions. IEEE Transactions on Signal and Information Processing over Networks, 2026. (SCI, 中科院 2 区)
 - [5] 蒋云彪, 刘忠信, 陈增强. Output synchronization of heterogeneous nonlinear multiagent systems with input quantization: A universal performance guaranteed control scheme[J]. IEEE Transactions on Control of Network Systems, 2023, 10(3): 1590-1602. (SCI, 中科院 3 区)
 - [6] 蒋云彪, 王丽媛, 孙鉴, 等. Attack-resistant distributed formation control for multiple unmanned surface vessels subject to output constraints[J]. Ocean Engineering, 2024, 314: 119712. (SCI, 中科院 2 区，Top 期刊)
 - [7] 蒋云彪, 刘忠信, 陈飞. Adaptive output-constrained finite-time formation control for multiple unmanned surface vessels with directed communication topology[J]. Ocean Engineering, 2024, 292: 116552. (SCI, 中科院 2 区，Top 期刊)
