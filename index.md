@@ -4,7 +4,7 @@ layout: homepage
 
 ## 蒋云彪
 
-大连民族大学讲师，青年特岗（校聘教授），硕士生导师，2024年6月毕业于南开大学控制科学与工程专业，2024年7月入职任大连民族大学机电工程学院自动化系。截至目前，以第一作者在人工智能和海洋工程等领域的权威期刊发表科研论文20余篇，如IEEE汇刊IEEE Transactions on Fuzzy Systems、 IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、 IEEE Transactions on Control of Network Systems、IEEE Transactions on Signal and Information Processing over Networks、Ocean Engineering，等等；主持省市级科研项目多项，参与国家自然科学基金项目多项；中国自动化学会会员，入选大连市高层次人才-青年才俊、大连市青年科技之星。
+工学博士，大连民族大学讲师，青年特岗（校聘教授），硕士生导师，2024年6月毕业于南开大学控制科学与工程专业，2024年7月入职任大连民族大学机电工程学院。截至目前，以第一作者在人工智能和海洋工程领域的权威期刊发表科研论文20余篇，如IEEE汇刊IEEE Transactions on Fuzzy Systems、 IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、 IEEE Transactions on Control of Network Systems、IEEE Transactions on Signal and Information Processing over Networks、Ocean Engineering，等等；主持省市级科研项目多项，参与国家自然科学基金项目多项；中国自动化学会会员，入选大连市高层次人才-青年才俊、大连市青年科技之星。
 
 ## 工作经历
 
@@ -21,7 +21,7 @@ layout: homepage
 
 ## 社会兼职：
 
-- 中国自动化学会会员，担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、 TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control。
+- 中国自动化学会会员，Journal of Automation and Intelligence ‌期刊青年编委，担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、 TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control。
   
 ## 招生领域：控制工程
 - 科研团队：智能控制与仿真设计、车辆智能化与控制；团队教师10余名，包括国家万人计划-领军人才1位、国家民委中青年英才1位、以及多位省市级人才称号获得者；
@@ -32,9 +32,9 @@ layout: homepage
 ## 代表性论文：
 
 - [1] 蒋云彪, 张涛, 陈飞, 等. Output-constrained secured tracking control for distributed cyber-physical systems against FDI attacks[J]. IEEE Transactions on Cybernetics, 2025, 55(11): 5070 - 5080. (SCI, 中科院 1 区，Top 期刊)
-- [2] 蒋云彪,王付永,刘忠信, 等. Composite learning adaptive tracking control for full-state constrained multiagent systems without using the feasibility condition[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 2460-2472. (SCI, 中科院 1 区，Top 期刊)
-- [3] 蒋云彪, 刘忠信, 陈增强. Fuzzy adaptive finite-time tracking control for a class of nonlinear systems: An event-triggered quantized control scheme[J]. IEEE Transactions on Fuzzy Systems, 2023, 31(11): 4137-4144. (SCI, 中科院 1 区，Top 期刊)
-- [4]	蒋云彪,宗广灯,刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions. IEEE Transactions on Signal and Information Processing over Networks, 2026. (SCI, 中科院 2 区)
+- [2] 蒋云彪,宗广灯,刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions. IEEE Transactions on Signal and Information Processing over Networks, 2026. (SCI, 中科院 2 区)
+- [3] 蒋云彪,王付永,刘忠信, 等. Composite learning adaptive tracking control for full-state constrained multiagent systems without using the feasibility condition[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 2460-2472. (SCI, 中科院 1 区，Top 期刊)
+- [4]	蒋云彪, 刘忠信, 陈增强. Fuzzy adaptive finite-time tracking control for a class of nonlinear systems: An event-triggered quantized control scheme[J]. IEEE Transactions on Fuzzy Systems, 2023, 31(11): 4137-4144. (SCI, 中科院 1 区，Top 期刊)
 - [5] 蒋云彪, 刘忠信, 陈增强. Output synchronization of heterogeneous nonlinear multiagent systems with input quantization: A universal performance guaranteed control scheme[J]. IEEE Transactions on Control of Network Systems, 2023, 10(3): 1590-1602. (SCI, 中科院 3 区)
 - [6] 蒋云彪, 王丽媛, 孙鉴, 等. Attack-resistant distributed formation control for multiple unmanned surface vessels subject to output constraints[J]. Ocean Engineering, 2024, 314: 119712. (SCI, 中科院 2 区，Top 期刊)
 - [7] 蒋云彪, 刘忠信, 陈飞. Adaptive output-constrained finite-time formation control for multiple unmanned surface vessels with directed communication topology[J]. Ocean Engineering, 2024, 292: 116552. (SCI, 中科院 2 区，Top 期刊)
@@ -42,7 +42,7 @@ layout: homepage
 - [9] 蒋云彪, 刘忠信, 陈增强. Prescribed-time distributed formation control for a class of nonlinear multi-agent systems subject to internal uncertainties and external disturbances[J]. Nonlinear Dynamics, 2023, 111(2): 1643-1655. (SCI, 中科院 2 区)
 
 ## 科研项目：
-- 辽宁省自然科学基金项目，2025.09-2027.09，主持。
+- 辽宁省自然科学基金计划项目，2025.09-2027.09，主持。
 - 大连市科技人才创新支持计划项目，2025.01-2026.12，主持。
 - 大连民族大学人才引进项目，2025.04-2028.04，主持。
 - 天津市研究生科研创新项目，2021.01-2022.01，主持。
