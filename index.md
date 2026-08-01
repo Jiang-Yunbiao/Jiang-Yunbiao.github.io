@@ -23,8 +23,8 @@ layout: homepage
 
 - 中国自动化学会会员，Journal of Automation and Intelligence ‌期刊青年编委，担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、 TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control。
   
-## 招生领域：控制工程
-- 科研团队：智能控制与仿真设计、车辆智能化与控制；团队教师10余名，包括国家万人计划-领军人才1位、国家民委中青年英才1位、以及多位省市级人才称号获得者；
+## 招生领域：控制工程、车辆工程
+- 科研团队：由国家“万人计划”领军人才、国家民委中青年英才、以及多位省市级人才称号获得者组成的人才梯次合理的科研团队；
 - 实验条件：课题组配备永磁同步电机、智能无人车和无人船等实验设备；
 - 欢迎有意从事学术研究的考研/保研学生加入课题组。本课题组与国内多所双一流大学保持密切合作，乐于为有意申请读博的同学提供力所能及的帮助；
 - 联系方式：jiangyb@dlnu.edu.cn
