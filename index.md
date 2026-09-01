@@ -42,6 +42,7 @@ layout: homepage
 - [9] 蒋云彪, 刘忠信, 陈增强. Prescribed-time distributed formation control for a class of nonlinear multi-agent systems subject to internal uncertainties and external disturbances[J]. Nonlinear Dynamics, 2023, 111(2): 1643-1655. (SCI, 中科院 2 区)
 
 ## 科研项目：
+- 国家自然科学基金青年科学基金项目，2027.01-2029.12，主持。
 - 辽宁省自然科学基金计划项目，2025.09-2027.09，主持。
 - 大连市科技人才创新支持计划项目，2025.01-2026.12，主持。
 - 大连民族大学人才引进项目，2025.04-2028.04，主持。
