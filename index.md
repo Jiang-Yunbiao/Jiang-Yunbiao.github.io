@@ -48,6 +48,7 @@ layout: homepage
 - [9] 蒋云彪, 王付永,刘忠信, 等. Nonsingular adaptive finite-time consensus control for uncertain nonlinear multi-agent systems with input quantization[J]. Transactions of the Institute of Measurement and Control, 2024, 46(13):2544-2557.
 - [10] 蒋云彪, 王付永, 于浩淼, 等. Adaptive prescribed-time containment control for multiple unmanned surface vehicles with uncertain dynamics and actuator dead-zones[J]. Ocean Engineering, 2023, 289: 116269. 
 - [11] 蒋云彪, 刘忠信, 陈增强. Prescribed-time distributed formation control for a class of nonlinear multi-agent systems subject to internal uncertainties and external disturbances[J]. Nonlinear Dynamics, 2023, 111(2): 1643-1655.
-- [12] 蒋云彪, 刘忠信, 陈增强.Robust distributed formation control with prescribed performance for nonlinear multi-agent systems subjected to compound disturbances[J]. International Journal of Adaptive Control and Signal Processing, 2023, 37(9): 2499-2521.
-- [13] 蒋云彪, 刘忠信, 陈增强. Distributed fault-tolerant consensus tracking control for multiple Lagrangian systems with preset error bound constraints[J]. Journal of the Franklin Institute, 2021, 358(14): 6994-7012.
+- [12] 蒋云彪, 刘忠信, 陈增强. Robust distributed formation control with prescribed performance for nonlinear multi-agent systems subjected to compound disturbances[J]. Asian Journal of Control, 2022, 24(2): 642-658.
+- [13] 蒋云彪, 刘忠信, 陈增强. Robust fault-tolerant consensus control for nonlinear multi-agent systems with prescribed transient and steady-state performance
+- [14] 蒋云彪, 刘忠信, 陈增强. Distributed fault-tolerant consensus tracking control for multiple Lagrangian systems with preset error bound constraints[J]. Journal of the Franklin Institute, 2021, 358(14): 6994-7012.
 
