@@ -37,8 +37,8 @@ layout: homepage
 - 天津市研究生科研创新项目，2021.01-2022.01，主持。
   
 ## 代表性论文：
-- [1] 蒋云彪,宗广灯,刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions[J]. IEEE Transactions on Signal and Information Processing over Networks, 2026, 12: 743-755.
-- [2] 蒋云彪, 赵博, 牛奔, 等.Output-constrained control for nonlinear systems against man-in-the-middle attacks: A barrier error-based control strategy[J]. Journal of the Franklin Institute, 2026, 363(16): 109117.
+- [1] 蒋云彪, 宗广灯, 刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions[J]. IEEE Transactions on Signal and Information Processing over Networks, 2026, 12: 743-755.
+- [2] 蒋云彪, 赵博, 牛奔, 等. Output-constrained control for nonlinear systems against man-in-the-middle attacks: A barrier error-based control strategy[J]. Journal of the Franklin Institute, 2026, 363(16): 109117.
 - [3] 蒋云彪, 张涛, 陈飞, 等. Output-constrained secured tracking control for distributed cyber-physical systems against FDI attacks[J]. IEEE Transactions on Cybernetics, 2025, 55(11): 5070 - 5080.
 - [4] 蒋云彪,王付永,刘忠信, 等. Composite learning adaptive tracking control for full-state constrained multiagent systems without using the feasibility condition[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 2460-2472. (SCI, 中科院 1 区，Top 期刊)
 - [5]	蒋云彪, 刘忠信, 陈增强. Fuzzy adaptive finite-time tracking control for a class of nonlinear systems: An event-triggered quantized control scheme[J]. IEEE Transactions on Fuzzy Systems, 2023, 31(11): 4137-4144. 
@@ -51,4 +51,7 @@ layout: homepage
 - [12] 蒋云彪, 刘忠信, 陈增强. Robust distributed formation control with prescribed performance for nonlinear multi-agent systems subjected to compound disturbances[J]. Asian Journal of Control, 2022, 24(2): 642-658.
 - [13] 蒋云彪, 刘忠信, 陈增强. Robust fault-tolerant consensus control for nonlinear multi-agent systems with prescribed transient and steady-state performance
 - [14] 蒋云彪, 刘忠信, 陈增强. Distributed fault-tolerant consensus tracking control for multiple Lagrangian systems with preset error bound constraints[J]. Journal of the Franklin Institute, 2021, 358(14): 6994-7012.
+
+## 会议论文：
+- [15] 蒋云彪, 张涛, 葛平淑. Position-Constrained Trajectory Tracking Control for USVs Without Requiring the Initial Feasibility Condition[C]. Proceedings of 2025 Chinese Intelligent Aotomation Conference, 2026, 1501: 517-527.
 
