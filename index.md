@@ -21,7 +21,9 @@ layout: homepage
 
 ## 社会兼职：
 
-- 中国自动化学会(CAA)会员，Journal of Automation and Intelligence ‌期刊青年编委，担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control。
+- 中国自动化学会(CAA)会员;
+- Journal of Automation and Intelligence ‌期刊青年编委;
+- 担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control, 等。
   
 ## 招生专业：控制工程、车辆工程
 - **科研团队**：由国家“万人计划”领军人才、国家民委中青年英才、以及多位省市级人才称号获得者组成的人才梯次合理的科研团队；
@@ -55,7 +57,7 @@ layout: homepage
 
 ## 会议论文：
 - [15] **蒋云彪**, 张涛, 葛平淑. Position-Constrained Trajectory Tracking Control for USVs Without Requiring the Initial Feasibility Condition[C]. Proceedings of 2025 Chinese Intelligent Aotomation Conference (CIAC 2026), pp: 517-527, 2026.
-- [16] **蒋云彪**, 王付永, 刘忠信, 等.Leader-following attitude consensus control for multi-UUV systems with input constraints and error constraints[C]. Proceedings of the 40th Chinese Control Conference (CCC 2021), pp: 5074-5079, July, 2021.
+- [16] **蒋云彪**, 王付永, 刘忠信, 等. Leader-following attitude consensus control for multi-UUV systems with input constraints and error constraints[C]. Proceedings of the 40th Chinese Control Conference (CCC 2021), pp: 5074-5079, July, 2021.
 - [17] **蒋云彪**, 郭晨, 于浩淼, 等. Three-dimensional Path Following for an Underactuated AUV Adopted Adaptive Sliding Mode Control[C]. Proceedings of the IEEE International Conference on Control and Automation (ICCA 2019), pp: 447-452, July, 2019.
 - [18] **蒋云彪**, 郭晨, 于浩淼. Adaptive Trajectory Tracking Control for an Underactuated AUV based on Command Filtered Backstepping[C]. Proceedings of the 37th Chinese Control Conference (CCC 2018), pp: 3710-3715, October, 2018.
 - [19] **蒋云彪**, 郭晨, 于浩淼. Horizontal trajectory tracking control for an underactuated AUV adopted global integral sliding mode control[C]. Proceedings of the 30th Chinese Control and Decision Conference (CCDC 2018), pp: 5786-5791, 2018.
