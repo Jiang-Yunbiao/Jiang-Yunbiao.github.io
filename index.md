@@ -4,7 +4,7 @@ layout: homepage
 
 ## 蒋云彪
 
-工学博士，硕士生导师，现为大连民族大学机电工程学院讲师（校聘教授）, 2024年6月毕业于南开大学控制科学与工程专业，2024年7月入职任大连民族大学机电工程学院。截至目前，以第一作者在人工智能和海洋工程领域的权威期刊发表科研论文20余篇，如IEEE Transactions on Fuzzy Systems、 IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、 IEEE Transactions on Control of Network Systems、IEEE Transactions on Signal and Information Processing over Networks、Ocean Engineering，等等；主持国家级、省市级科研项目多项，参与国家自然科学基金项目多项；中国自动化学会会员，入选大连市高层次人才-青年才俊、大连市青年科技之星。
+工学博士，硕士生导师，现为大连民族大学讲师（校聘教授）, 2024年6月毕业于南开大学控制科学与工程专业，2024年7月入职任大连民族大学机电工程学院。截至目前，以第一作者在人工智能和海洋工程领域的权威期刊发表科研论文20余篇，如IEEE Transactions on Fuzzy Systems、 IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、 IEEE Transactions on Control of Network Systems、IEEE Transactions on Signal and Information Processing over Networks、Ocean Engineering，等等；主持国家级、省市级科研项目多项，参与国家自然科学基金项目多项；中国自动化学会会员，入选大连市高层次人才-青年才俊、大连市青年科技之星。
 
 ## 工作经历
 
