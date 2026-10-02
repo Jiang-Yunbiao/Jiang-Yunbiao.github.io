@@ -37,20 +37,20 @@ layout: homepage
 - 天津市研究生科研创新项目，2021.01-2022.01，主持。
   
 ## 代表性论文：
-- [1] 蒋云彪, 宗广灯, 刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions[J]. **IEEE Transactions on Signal and Information Processing over Networks**, 2026, 12: 743-755.
-- [2] 蒋云彪, 赵博, 牛奔, 等. Output-constrained control for nonlinear systems against man-in-the-middle attacks: A barrier error-based control strategy[J]. Journal of the Franklin Institute, 2026, 363(16): 109117.
-- [3] 蒋云彪, 张涛, 陈飞, 等. Output-constrained secured tracking control for distributed cyber-physical systems against FDI attacks[J]. IEEE Transactions on Cybernetics, 2025, 55(11): 5070 - 5080.
-- [4] 蒋云彪,王付永,刘忠信, 等. Composite learning adaptive tracking control for full-state constrained multiagent systems without using the feasibility condition[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 2460-2472. (SCI, 中科院 1 区，Top 期刊)
-- [5]	蒋云彪, 刘忠信, 陈增强. Fuzzy adaptive finite-time tracking control for a class of nonlinear systems: An event-triggered quantized control scheme[J]. IEEE Transactions on Fuzzy Systems, 2023, 31(11): 4137-4144. 
-- [6] 蒋云彪, 刘忠信, 陈增强. Output synchronization of heterogeneous nonlinear multiagent systems with input quantization: A universal performance guaranteed control scheme[J]. IEEE Transactions on Control of Network Systems, 2023, 10(3): 1590-1602. 
-- [7] 蒋云彪, 王丽媛, 孙鉴, 等. Attack-resistant distributed formation control for multiple unmanned surface vessels subject to output constraints[J]. Ocean Engineering, 2024, 314: 119712. 
-- [8] 蒋云彪, 刘忠信, 陈飞. Adaptive output-constrained finite-time formation control for multiple unmanned surface vessels with directed communication topology[J]. Ocean Engineering, 2024, 292: 116552.
-- [9] 蒋云彪, 王付永,刘忠信, 等. Nonsingular adaptive finite-time consensus control for uncertain nonlinear multi-agent systems with input quantization[J]. Transactions of the Institute of Measurement and Control, 2024, 46(13):2544-2557.
-- [10] 蒋云彪, 王付永, 于浩淼, 等. Adaptive prescribed-time containment control for multiple unmanned surface vehicles with uncertain dynamics and actuator dead-zones[J]. Ocean Engineering, 2023, 289: 116269. 
-- [11] 蒋云彪, 刘忠信, 陈增强. Prescribed-time distributed formation control for a class of nonlinear multi-agent systems subject to internal uncertainties and external disturbances[J]. Nonlinear Dynamics, 2023, 111(2): 1643-1655.
-- [12] 蒋云彪, 刘忠信, 陈增强. Robust distributed formation control with prescribed performance for nonlinear multi-agent systems subjected to compound disturbances[J]. Asian Journal of Control, 2022, 24(2): 642-658.
-- [13] 蒋云彪, 刘忠信, 陈增强. Robust fault-tolerant consensus control for nonlinear multi-agent systems with prescribed transient and steady-state performance
-- [14] 蒋云彪, 刘忠信, 陈增强. Distributed fault-tolerant consensus tracking control for multiple Lagrangian systems with preset error bound constraints[J]. Journal of the Franklin Institute, 2021, 358(14): 6994-7012.
+- [1] 蒋云彪, 宗广灯, 刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions[J]. **IEEE Transactions on Signal and Information Processing over Networks**, , vol.12, pp: 743-755, 2026.
+- [2] 蒋云彪, 赵博, 牛奔, 等. Output-constrained control for nonlinear systems against man-in-the-middle attacks: A barrier error-based control strategy[J]. **Journal of the Franklin Institute**, vol.363, No.16, 109117, 2026.
+- [3] 蒋云彪, 张涛, 陈飞, 等. Output-constrained secured tracking control for distributed cyber-physical systems against FDI attacks[J]. **IEEE Transactions on Cybernetics**, vol.55, no.11, pp: 5070-5080, 2025.
+- [4] 蒋云彪,王付永,刘忠信, 等. Composite learning adaptive tracking control for full-state constrained multiagent systems without using the feasibility condition[J]. **IEEE Transactions on Neural Networks and Learning Systems**, vol.35, no.2, pp: 2460-2472, 2024.
+- [5]	蒋云彪, 刘忠信, 陈增强. Fuzzy adaptive finite-time tracking control for a class of nonlinear systems: An event-triggered quantized control scheme[J]. **IEEE Transactions on Fuzzy Systems**, vol.31, no.11, pp: 4137-4144, 2023. 
+- [6] 蒋云彪, 刘忠信, 陈增强. Output synchronization of heterogeneous nonlinear multiagent systems with input quantization: A universal performance guaranteed control scheme[J]. **IEEE Transactions on Control of Network Systems**, vol.10, no.3, pp: 1590-1602, 2023. 
+- [7] 蒋云彪, 王丽媛, 孙鉴, 等. Attack-resistant distributed formation control for multiple unmanned surface vessels subject to output constraints[J]. **Ocean Engineering**, vol.314, no. 119712, 2024. 
+- [8] 蒋云彪, 刘忠信, 陈飞. Adaptive output-constrained finite-time formation control for multiple unmanned surface vessels with directed communication topology[J]. **Ocean Engineering**, vol.292, no. 116552, 2024.
+- [9] 蒋云彪, 王付永,刘忠信, 等. Nonsingular adaptive finite-time consensus control for uncertain nonlinear multi-agent systems with input quantization[J]. **Transactions of the Institute of Measurement and Control**, vol.46, no.13, pp:2544-2557, 2024.
+- [10] 蒋云彪, 王付永, 于浩淼, 等. Adaptive prescribed-time containment control for multiple unmanned surface vehicles with uncertain dynamics and actuator dead-zones[J]. **Ocean Engineering**, vol.289, no.116269, 2023. 
+- [11] 蒋云彪, 刘忠信, 陈增强. Prescribed-time distributed formation control for a class of nonlinear multi-agent systems subject to internal uncertainties and external disturbances[J]. **Nonlinear Dynamics**, vol.111, no.2, pp: 1643-1655,  2023.
+- [12] 蒋云彪, 刘忠信, 陈增强. Robust distributed formation control with prescribed performance for nonlinear multi-agent systems subjected to compound disturbances[J]. **International Journal of Adaptive Control and Signal Processing**, vol.37, no.9, pp:2499-2521, 2023.
+- [13] 蒋云彪, 刘忠信, 陈增强. Robust fault-tolerant consensus control for nonlinear multi-agent systems with prescribed transient and steady-state performance[J]. **Asian Journal of Control**, vol.24, no.2, pp: 642-658, 2022.
+- [14] 蒋云彪, 刘忠信, 陈增强. Distributed fault-tolerant consensus tracking control for multiple Lagrangian systems with preset error bound constraints[J]. **Journal of the Franklin Institute**, vol.358, no.14, pp: 6994-7012, 2021.
 
 ## 会议论文：
 - [15] 蒋云彪, 张涛, 葛平淑. Position-Constrained Trajectory Tracking Control for USVs Without Requiring the Initial Feasibility Condition[C]. Proceedings of 2025 Chinese Intelligent Aotomation Conference, 2026, 1501: 517-527.
