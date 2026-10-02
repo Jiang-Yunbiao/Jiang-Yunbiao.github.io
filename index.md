@@ -37,7 +37,7 @@ layout: homepage
 - 天津市研究生科研创新项目，2021.01-2022.01，主持。
   
 ## 代表性论文：
-- [1] 蒋云彪, 宗广灯, 刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions[J]. IEEE Transactions on Signal and Information Processing over Networks, 2026, 12: 743-755.
+- [1] 蒋云彪, 宗广灯, 刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions[J]. **IEEE Transactions on Signal and Information Processing over Networks**, 2026, 12: 743-755.
 - [2] 蒋云彪, 赵博, 牛奔, 等. Output-constrained control for nonlinear systems against man-in-the-middle attacks: A barrier error-based control strategy[J]. Journal of the Franklin Institute, 2026, 363(16): 109117.
 - [3] 蒋云彪, 张涛, 陈飞, 等. Output-constrained secured tracking control for distributed cyber-physical systems against FDI attacks[J]. IEEE Transactions on Cybernetics, 2025, 55(11): 5070 - 5080.
 - [4] 蒋云彪,王付永,刘忠信, 等. Composite learning adaptive tracking control for full-state constrained multiagent systems without using the feasibility condition[J]. IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 2460-2472. (SCI, 中科院 1 区，Top 期刊)
