@@ -21,7 +21,7 @@ layout: homepage
 
 ## 社会兼职：
 
-- 中国自动化学会会员，Journal of Automation and Intelligence ‌期刊青年编委，担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、 TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control。
+- 中国自动化学会(CAA)会员，Journal of Automation and Intelligence ‌期刊青年编委，担任20余个国际权威SCI期刊的审稿人，包括IEEE 汇刊TNNLS、TII、TCYB、TSMC、TAES、TSIPN、TNSE，以及Elsevier、Springer和Wiley出版社旗下的知名期刊Neural Networks、Ocean Engineering、Nonlinear Dynamics、Information Sciences、International Journal of Robust and Nonlinear Control。
   
 ## 招生领域：控制工程、车辆工程
 - 科研团队：由国家“万人计划”领军人才、国家民委中青年英才、以及多位省市级人才称号获得者组成的人才梯次合理的科研团队；
