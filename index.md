@@ -53,9 +53,9 @@ layout: homepage
 - [14] **蒋云彪**, 刘忠信, 陈增强. Distributed fault-tolerant consensus tracking control for multiple Lagrangian systems with preset error bound constraints[J]. **Journal of the Franklin Institute**, vol.358, no.14, pp: 6994-7012, **2021**.
 
 ## 会议论文：
-- [15] 蒋云彪, 张涛, 葛平淑. Position-Constrained Trajectory Tracking Control for USVs Without Requiring the Initial Feasibility Condition[C]. Proceedings of 2025 Chinese Intelligent Aotomation Conference (CIAC 2026), pp: 517-527, 2026**.
-- [16] 蒋云彪, 王付永, 刘忠信, 等.Leader-following attitude consensus control for multi-UUV systems with input constraints and error constraints[C]. Proceedings of the 40th Chinese Control Conference (CCC 2021), pp: 5074-5079, July, 2021.
-- [17] 蒋云彪, 郭晨, 于浩淼, 等. Three-dimensional Path Following for an Underactuated AUV Adopted Adaptive Sliding Mode Control[C]. Proceedings of the IEEE International Conference on Control and Automation (ICCA 2019), pp: 447-452, July, 2019.
-- [18] 蒋云彪, 郭晨, 于浩淼. Adaptive Trajectory Tracking Control for an Underactuated AUV based on Command Filtered Backstepping[C]. Proceedings of the 37th Chinese Control Conference (CCC 2018), pp: 3710-3715, October, 2018.
-- [19] 蒋云彪, 郭晨, 于浩淼. Horizontal trajectory tracking control for an underactuated AUV adopted global integral sliding mode control[C]. Proceedings of the 30th Chinese Control and Decision Conference (CCDC 2018), pp: 5786-5791, 2018.
+- [15] **蒋云彪, 张涛, 葛平淑. Position-Constrained Trajectory Tracking Control for USVs Without Requiring the Initial Feasibility Condition[C]. Proceedings of 2025 Chinese Intelligent Aotomation Conference (CIAC 2026), pp: 517-527, 2026**.
+- [16] **蒋云彪**, 王付永, 刘忠信, 等.Leader-following attitude consensus control for multi-UUV systems with input constraints and error constraints[C]. Proceedings of the 40th Chinese Control Conference (CCC 2021), pp: 5074-5079, July, 2021.
+- [17] **蒋云彪**, 郭晨, 于浩淼, 等. Three-dimensional Path Following for an Underactuated AUV Adopted Adaptive Sliding Mode Control[C]. Proceedings of the IEEE International Conference on Control and Automation (ICCA 2019), pp: 447-452, July, 2019.
+- [18] **蒋云彪**, 郭晨, 于浩淼. Adaptive Trajectory Tracking Control for an Underactuated AUV based on Command Filtered Backstepping[C]. Proceedings of the 37th Chinese Control Conference (CCC 2018), pp: 3710-3715, October, 2018.
+- [19] **蒋云彪**, 郭晨, 于浩淼. Horizontal trajectory tracking control for an underactuated AUV adopted global integral sliding mode control[C]. Proceedings of the 30th Chinese Control and Decision Conference (CCDC 2018), pp: 5786-5791, 2018.
 
