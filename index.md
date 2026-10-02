@@ -36,9 +36,9 @@ layout: homepage
 - 大连民族大学人才引进项目，2025.04-2028.04，主持。
 - 天津市研究生科研创新项目，2021.01-2022.01，主持。
   
-## 代表性论文：
+## 代表性期刊论文：
 - [1] 蒋云彪, 宗广灯, 刘忠信, 等. Output-constrained containment of networked multiagent systems: Two adaptive control schemes for different working conditions[J]. **IEEE Transactions on Signal and Information Processing over Networks**, , vol.12, pp: 743-755, 2026.
-- [2] 蒋云彪, 赵博, 牛奔, 等. Output-constrained control for nonlinear systems against man-in-the-middle attacks: A barrier error-based control strategy[J]. **Journal of the Franklin Institute**, vol.363, No.16, 109117, 2026.
+- [2] 蒋云彪, 赵博, 牛奔, 等. Output-constrained control for nonlinear systems against man-in-the-middle attacks: A barrier error-based control strategy[J]. **Journal of the Franklin Institute**, vol.363, no.16, 109117, 2026.
 - [3] 蒋云彪, 张涛, 陈飞, 等. Output-constrained secured tracking control for distributed cyber-physical systems against FDI attacks[J]. **IEEE Transactions on Cybernetics**, vol.55, no.11, pp: 5070-5080, 2025.
 - [4] 蒋云彪,王付永,刘忠信, 等. Composite learning adaptive tracking control for full-state constrained multiagent systems without using the feasibility condition[J]. **IEEE Transactions on Neural Networks and Learning Systems**, vol.35, no.2, pp: 2460-2472, 2024.
 - [5]	蒋云彪, 刘忠信, 陈增强. Fuzzy adaptive finite-time tracking control for a class of nonlinear systems: An event-triggered quantized control scheme[J]. **IEEE Transactions on Fuzzy Systems**, vol.31, no.11, pp: 4137-4144, 2023. 
@@ -53,5 +53,9 @@ layout: homepage
 - [14] 蒋云彪, 刘忠信, 陈增强. Distributed fault-tolerant consensus tracking control for multiple Lagrangian systems with preset error bound constraints[J]. **Journal of the Franklin Institute**, vol.358, no.14, pp: 6994-7012, 2021.
 
 ## 会议论文：
-- [15] 蒋云彪, 张涛, 葛平淑. Position-Constrained Trajectory Tracking Control for USVs Without Requiring the Initial Feasibility Condition[C]. Proceedings of 2025 Chinese Intelligent Aotomation Conference, 2026, 1501: 517-527.
+- [15] 蒋云彪, 张涛, 葛平淑. Position-Constrained Trajectory Tracking Control for USVs Without Requiring the Initial Feasibility Condition[C]. Proceedings of 2025 Chinese Intelligent Aotomation Conference (CIAC 2026), pp: 517-527, 2026.
+- [16] 蒋云彪, 王付永, 刘忠信, 等.Leader-following attitude consensus control for multi-UUV systems with input constraints and error constraints[C]. Proceedings of the 40th Chinese Control Conference (CCC 2021), pp: 5074-5079, July, 2021.
+- [17] 蒋云彪, 郭晨, 于浩淼, 等. Three-dimensional Path Following for an Underactuated AUV Adopted Adaptive Sliding Mode Control[C]. Proceedings of the IEEE International Conference on Control and Automation (ICCA 2019), pp: 447-452, July, 2019.
+- [18] 蒋云彪, 郭晨, 于浩淼. Adaptive Trajectory Tracking Control for an Underactuated AUV based on Command Filtered Backstepping[C]. Proceedings of the 37th Chinese Control Conference (CCC 2018), pp: 3710-3715, October, 2018.
+- [19] 蒋云彪, 郭晨, 于浩淼. Horizontal trajectory tracking control for an underactuated AUV adopted global integral sliding mode control[C]. Proceedings of the 30th Chinese Control and Decision Conference (CCDC 2018), pp: 5786-5791, 2018.
 
