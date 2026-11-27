@@ -36,7 +36,7 @@ body {
   color:var(--ink);
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
   font-size:14px;
-  line-height:1.95;
+  line-height:1.75;
   -webkit-font-smoothing:antialiased
 }
 a {
@@ -66,10 +66,10 @@ a:focus-visible,summary:focus-visible {
 .page-shell {
   max-width:1160px;
   margin:0 auto;
-  padding:60px 44px;
+  padding:44px 44px;
   display:grid;
   grid-template-columns:224px minmax(0,1fr);
-  gap:72px
+  gap:60px
 }
 .sidebar {
   position:sticky;
@@ -109,11 +109,11 @@ a:focus-visible,summary:focus-visible {
 .english-name {
   font:15px/1.7 Georgia,serif;
   color:var(--muted);
-  margin:0 0 24px
+  margin:0 0 18px
 }
 .position {
   font-size:13px;
-  margin:0 0 17px
+  margin:0 0 12px
 }
 .affiliation {
   margin:0 0 12px;
@@ -129,8 +129,8 @@ a:focus-visible,summary:focus-visible {
 }
 .section-nav {
   display:grid;
-  margin:30px 0 24px;
-  padding-top:20px;
+  margin:24px 0 18px;
+  padding-top:16px;
   border-top:1px solid var(--line);
   gap:2px
 }
@@ -138,7 +138,7 @@ a:focus-visible,summary:focus-visible {
   display:flex;
   align-items:center;
   justify-content:space-between;
-  padding:5px 0;
+  padding:4px 0;
   font-size:13px;
   color:#586973
 }
@@ -157,24 +157,24 @@ main {
   min-width:0
 }
 .eyebrow {
-  margin:0 0 16px;
+  margin:0 0 12px;
   font-size:10px;
   letter-spacing:2.8px;
   font-weight:600;
   color:var(--muted)
 }
 .hero {
-  padding-bottom:34px;
+  padding-bottom:24px;
   border-bottom:1px solid var(--line)
 }
 .hero h2 {
   font:600 31px/1.55 "Songti SC",SimSun,serif;
   letter-spacing:1px;
   color:var(--blue);
-  margin:0 0 22px
+  margin:0 0 16px
 }
 .hero p {
-  margin:0 0 14px
+  margin:0 0 10px
 }
 .hero p:last-child {
   margin-bottom:0
@@ -183,7 +183,7 @@ main {
   display:flex;
   flex-wrap:wrap;
   gap:8px;
-  margin-top:22px
+  margin-top:16px
 }
 .honors span {
   background:var(--soft);
@@ -194,7 +194,7 @@ main {
   color:#486273
 }
 .content-section {
-  padding-top:38px;
+  padding-top:28px;
   scroll-margin-top:22px
 }
 .section-heading {
@@ -202,8 +202,8 @@ main {
   align-items:baseline;
   gap:14px;
   border-bottom:1px solid var(--line);
-  padding-bottom:11px;
-  margin-bottom:22px
+  padding-bottom:9px;
+  margin-bottom:16px
 }
 .section-heading h2 {
   margin:0;
@@ -223,20 +223,20 @@ main {
 }
 .research-item {
   border-top:2px solid #7795a6;
-  padding-top:12px
+  padding-top:10px
 }
 .research-item .number {
   font:11px Georgia,serif;
   color:#7c929f
 }
 .research-item h3 {
-  margin:6px 0 8px;
+  margin:5px 0 6px;
   font-size:15px;
   color:var(--blue)
 }
 .research-item p {
   font-size:13px;
-  line-height:1.85;
+  line-height:1.75;
   color:var(--muted);
   margin:0
 }
@@ -249,7 +249,7 @@ main {
   display:grid;
   grid-template-columns:115px 1fr;
   gap:18px;
-  padding-bottom:22px
+  padding-bottom:14px
 }
 .timeline time {
   font:12px/1.9 Georgia,serif;
@@ -276,7 +276,7 @@ main {
   grid-template-columns:1fr auto;
   gap:12px;
   align-items:baseline;
-  padding:11px 0;
+  padding:8px 0;
   border-bottom:1px solid #edf0f2
 }
 .project-name {
@@ -295,11 +295,11 @@ main {
 .section-note {
   color:var(--muted);
   font-size:12px;
-  margin:-8px 0 20px
+  margin:-6px 0 14px
 }
 .pub-subheading {
   font-size:14px;
-  margin:26px 0 4px;
+  margin:18px 0 4px;
   font-weight:600;
   color:var(--blue)
 }
@@ -313,7 +313,7 @@ main {
   grid-template-columns:28px 1fr;
   gap:10px;
   border-bottom:1px solid #edf0f2;
-  padding:19px 0
+  padding:13px 0
 }
 .pub-number {
   color:#8798a4;
@@ -321,13 +321,13 @@ main {
   padding-top:1px
 }
 .pub-title {
-  margin:0 0 7px;
-  font:500 16px/1.5 Georgia,"Times New Roman",serif;
+  margin:0 0 5px;
+  font:500 16px/1.4 Georgia,"Times New Roman",serif;
   color:#253d4c;
   overflow-wrap:anywhere
 }
 .pub-authors {
-  margin:0 0 4px;
+  margin:0 0 3px;
   font-size:12px;
   color:var(--muted)
 }
@@ -348,7 +348,7 @@ main {
   font-weight:600
 }
 details {
-  margin-top:20px
+  margin-top:14px
 }
 summary {
   color:var(--blue);
@@ -362,24 +362,24 @@ summary {
   font-size:14px
 }
 .service-list li {
-  padding-bottom:8px
+  padding-bottom:6px
 }
 .student-panel {
   background:var(--soft);
   border-left:3px solid #7391a2;
-  padding:24px 28px
+  padding:20px 24px
 }
 .student-panel h3 {
   font-size:18px;
   color:var(--blue);
-  margin:0 0 12px
+  margin:0 0 10px
 }
 .student-panel p {
-  margin:0 0 12px;
+  margin:0 0 9px;
   font-size:14px
 }
 .student-panel p:last-child {
-  margin:20px 0 0
+  margin:14px 0 0
 }
 .contact-button {
   display:inline-block;
@@ -392,9 +392,9 @@ summary {
 .footer {
   display:flex;
   justify-content:space-between;
-  margin-top:48px;
+  margin-top:32px;
   border-top:1px solid var(--line);
-  padding-top:20px;
+  padding-top:16px;
   font-size:11px;
   color:var(--muted)
 }
@@ -404,7 +404,7 @@ summary {
 
 @media(min-width:1600px) {
   .page-shell {
-  padding-top:84px
+  padding-top:60px
 }
 
 }
@@ -494,7 +494,7 @@ summary {
   letter-spacing:2px
 }
 .content-section {
-  padding-top:30px
+  padding-top:24px
 }
 .section-heading {
   gap:10px
