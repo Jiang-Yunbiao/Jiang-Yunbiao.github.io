@@ -599,7 +599,7 @@ details>* {
   <p class="eyebrow">YUNBIAO JIANG / ACADEMIC HOMEPAGE</p>
   <h2 id="about-title">多智能体协同与智能控制</h2>
   <p>蒋云彪，工学博士，硕士生导师，现任大连民族大学机电工程学院讲师、校聘教授。2024 年 6 月毕业于南开大学控制科学与工程专业，同年 7 月加入大连民族大学。</p>
-  <p>围绕多智能体系统、自主无人集群与智能控制理论开展研究，以第一作者发表科研论文 20 余篇，成果发表于 IEEE Transactions on Fuzzy Systems、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems 等期刊。主持国家级及省市级科研项目多项。</p>
+  <p>围绕多智能体系统、自主无人集群与智能控制理论开展研究，以第一作者发表科研论文 20 余篇，成果发表于 IEEE Transactions on Fuzzy Systems、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems 等期刊。主持国家级、省市级科研项目多项。</p>
   <div class="honors"><span>大连市高层次人才 · 青年才俊</span><span>大连市青年科技之星</span></div>
 </section>
 
@@ -636,7 +636,6 @@ details>* {
 
 <section class="content-section" id="publications" aria-labelledby="publications-title">
   <div class="section-heading"><h2 id="publications-title">学术论文</h2><span>Publications</span></div>
-<p class="section-note">以下为代表性期刊论文及会议论文，作者姓名加粗标示。</p>
 <h3 class="pub-subheading">代表性期刊论文</h3>
 <ol class="pub-list">
 
