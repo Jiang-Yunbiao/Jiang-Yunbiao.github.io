@@ -649,6 +649,15 @@ details>* {
   </li>
 
   <li>
+    <span class="pub-number">01</span>
+    <div>
+      <h4 class="pub-title">Full-state constrained funnel control for trajectory tracking of marine surface vessels navigating in restricted waterways</h4>
+      <p class="pub-authors"><strong>蒋云彪</strong>, 高逸飞, 于浩淼, 等</p>
+      <p class="pub-venue"><em>Ocean Engineering</em> · vol. 373, pp. 129610 · <span class="pub-year">2026</span></p>
+    </div>
+  </li>
+
+  <li>
     <span class="pub-number">02</span>
     <div>
       <h4 class="pub-title">Output-constrained control for nonlinear systems against man-in-the-middle attacks: A barrier error-based control strategy</h4>
